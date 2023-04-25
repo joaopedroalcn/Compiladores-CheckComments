@@ -37,4 +37,4 @@ function checaComentarios(str) {
   console.log(comentario);
 }
 
-checaComentarios("/*aadfsdfsd*/fdgfdgd435/*fghfg*/")
+checaComentarios("/*OI*/oioi/*comment*/")
